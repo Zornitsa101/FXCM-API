@@ -1,0 +1,2 @@
+# FXCM-API
+Algo trading
